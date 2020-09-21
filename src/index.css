@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.login{
+  background-color: dimgrey;
+}
+
+ input {
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  width: 200px;
+}
+
+.login text {
+  text-align: left;
+}
+
+.city-state{
+  background-color: darkslateblue;
+
+}
+
+.blocks {
+  padding: 20px;
+  width: 90%;
+  margin: 0 auto;
+  color: white;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
