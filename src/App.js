@@ -4,6 +4,7 @@ import Greeting from './Greeting';
 import Counter from './Counter'
 import Login from './Login';
 import Address from './Address'
+import Conditional from './Conditional';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Counter bookTitle = "Man on the Moon"/>
       <Login/>
       <Address />
+      <Conditional/>
     </div>
   );
 }
