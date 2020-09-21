@@ -41,3 +41,10 @@ code {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.errors{
+  border: red 1 solid;
+  width: 70%;
+  margin: 0 auto;
+  padding: 20px;
+}
